@@ -117,13 +117,9 @@ The Officers tab displays the current LIT (League of IT Students) officers:
 - **Search**: Real-time filtering across officer names and user data
 - **Sorting**: Multiple sort options for registrants (name, email, department)
 
-## Contributing
+## Documentation
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly on both iOS and Android
-5. Submit a pull request
+- **[CLIENT_DEMO.md](CLIENT_DEMO.md)** - Comprehensive client demonstration guide with detailed features, technical architecture, and user workflows
 
 ## License
 
