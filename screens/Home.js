@@ -64,7 +64,7 @@ export default function Home() {
         <Image source={require('../assets/logo/lit_logo.jpg')} style={styles.logo} />
       </View>
       <Text style={styles.welcome}>Welcome, {currentUser?.name}!</Text>
-      <Text style={styles.subtitle}>USTP IT Officers Management System</Text>
+      <Text style={styles.subtitle}>USTP Panaon LIT Officers App</Text>
       <View style={styles.profileCard}>
         <Text style={styles.profileTitle}>Your Profile</Text>
         <Text style={styles.profileText}>Name: {currentUser?.name}</Text>

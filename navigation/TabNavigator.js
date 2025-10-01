@@ -62,7 +62,7 @@ export default function TabNavigator({ navigation }) {
             <Ionicons name="school" size={24} color={COLORS.secondary} />
           </TouchableOpacity>
         ),
-        headerTitle: 'USTP IT Officers App',
+        headerTitle: 'USTP LIT Officers App',
         headerRight: () => (
           <TouchableOpacity onPress={handleLogout} style={{ marginRight: 15 }}>
             <Ionicons name="log-out" size={24} color={COLORS.secondary} />
