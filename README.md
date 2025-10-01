@@ -120,6 +120,7 @@ The Officers tab displays the current LIT (League of IT Students) officers:
 ## Documentation
 
 - **[CLIENT_DEMO.md](CLIENT_DEMO.md)** - Comprehensive client demonstration guide with detailed features, technical architecture, and user workflows
+- **[FILE_STRUCTURE.md](FILE_STRUCTURE.md)** - Detailed walkthrough of project structure, file purposes, and codebase organization
 
 ## License
 
